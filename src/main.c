@@ -3,7 +3,7 @@
 int main()
 {
    
-   printf("Hello ESPL",);
+   printf("Hello ESPL");
 
    return 0;
 }
